@@ -1,8 +1,8 @@
 ---
-name: Kristin Mertens
-function: Computational designer.
-pic: img/kristin.jpeg
-bio: computational designer who fuses technology and creativity to inspire innovative design thinking.
+name: Roooose
+function: the fastest cycler I know
+pic: img/pig.jpg
+bio: aaaaaa
 ---
 
 Kristin Mertens is a computational designer and educator whose work resides at the intersection of design, technology, and innovation. With a deep passion for crafting algorithm-driven solutions, she pushes the boundaries of traditional design by integrating computation into her creative process. Her projects range from generative visuals and interactive installations to dynamic systems that adapt and evolve over time.
