@@ -19,3 +19,10 @@
 - Sophia 
 - Eka 
 - Olena 
+
+# Hidden numbers
+
+- First digit is hidden in console with a match equation in the index.astro page
+- Second digit is hidden in Sophia's description
+- Third digit is hidden in news page in white text
+- Fourth digit is hidden in the fold hidden behind the image
