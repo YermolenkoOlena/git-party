@@ -11,4 +11,11 @@
 ### Illustrations
 
 <https://pixels.market/illustrations/doodledo?c=technology>
-wertyui9ouytrdesdtyuioiuytrd
+
+
+# Our names
+
+- Rose
+- Sophia 
+- Eka 
+- Olena 
