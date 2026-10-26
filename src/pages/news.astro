@@ -16,7 +16,7 @@ const news = await Promise.all(
 <Base title="News">
   <div class="container">
     <h2><span>News</span></h2>
-    <p class="code">The third digit of the code is 3</p>
+    <p class="code">The third digit of the code is 9</p>
     <ul>
       {
         news.map(({ item, Content }) => (
@@ -51,5 +51,8 @@ const news = await Promise.all(
   time {
     display: block;
     margin-bottom: var(--sp-l);
+  }
+  .code{
+    color: white;
   }
 </style>
