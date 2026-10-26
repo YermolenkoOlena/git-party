@@ -2,8 +2,10 @@
 name: Sophia
 function: cat lover
 pic: img/cat.png
-bio: yyyyyyy
+bio: meow
 ---
+
+<span title="How many colours are there in the rainbow?">🌈</span>
 
 Neal Willems is a creative technologist and educator who explores the intersection of art, technology, and human creativity. With a deep understanding of code and design, he creates algorithmic art that pushes the boundaries of traditional aesthetics, combining randomness, geometry, and dynamic systems.
 
